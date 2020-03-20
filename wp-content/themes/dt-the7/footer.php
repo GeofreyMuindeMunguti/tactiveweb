@@ -1,3 +1,4 @@
+
 <?php
 /**
  * The template for displaying the footer.
@@ -81,3 +82,4 @@ if ( presscore_is_content_visible() ) : ?>
 </div>
 </body>
 </html>
+

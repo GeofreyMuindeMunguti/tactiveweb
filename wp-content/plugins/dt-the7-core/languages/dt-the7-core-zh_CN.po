@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DT The7 Core\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/dt-the7-core\n"
-"POT-Creation-Date: 2020-02-07 07:56:06+00:00\n"
+"POT-Creation-Date: 2020-02-28 10:17:39+00:00\n"
 "PO-Revision-Date: 2016-12-04 16:56+0000\n"
 "Last-Translator: 刁 可永 <dky@yntcjz.com>\n"
 "Language-Team: Chinese (China)\n"
@@ -18,10 +18,6 @@ msgstr ""
 "X-Poedit-Basepath: ../\n"
 "X-Textdomain-Support: yes\n"
 "X-Poedit-SearchPath-0: .\n"
-
-#: includes/class-the7pt-admin.php:86
-msgid "Settings"
-msgstr "设置"
 
 #: includes/class-the7pt-admin.php:180
 msgid ""
@@ -4347,8 +4343,8 @@ msgstr "项目元素"
 
 #. Description of the plugin/theme
 msgid ""
-"This plugin contains The7 custom post types and corresponding Visual "
-"Composer elements."
+"This plugin contains The7 custom post types and corresponding page builder "
+"elements."
 msgstr ""
 
 # @ the7mk2
@@ -4583,6 +4579,12 @@ msgstr " &mdash; 所有的推荐（所有分类）将显示在此页面上。"
 msgctxt "backend"
 msgid " &mdash; choose Testimonials category(s) to be shown on this page."
 msgstr " &mdash; 选择要在此页面上显示的“推荐”分类。"
+
+#: includes/class-the7pt-admin.php:86
+#, fuzzy
+msgctxt "admin"
+msgid "Settings"
+msgstr "设置"
 
 # @ the7mk2
 #: includes/theme-options/modules.php:13
@@ -6183,14 +6185,14 @@ msgctxt "vc inline dummy"
 msgid "Albums Scroller"
 msgstr "相册滚动条"
 
-#: mods/albums/public/shortcodes/gallery-masonry/gallery-masonry.php:513
+#: mods/albums/public/shortcodes/gallery-masonry/gallery-masonry.php:523
 #, fuzzy
 msgctxt "vc inline dummy"
 msgid "Gallery masonry & grid"
 msgstr "砖石砌体&网格"
 
 # @ the7mk2
-#: mods/albums/public/shortcodes/photos-carousel/photos-carousel.php:571
+#: mods/albums/public/shortcodes/photos-carousel/photos-carousel.php:582
 #, fuzzy
 msgctxt "vc inline dummy"
 msgid "Photos Carousel"

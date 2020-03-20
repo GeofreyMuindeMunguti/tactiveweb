@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: The7 3.3.1\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/dt-the7-core\n"
-"POT-Creation-Date: 2020-02-07 07:56:06+00:00\n"
+"POT-Creation-Date: 2020-02-28 10:17:39+00:00\n"
 "PO-Revision-Date: 2016-09-23 11:11+0300\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
@@ -23,10 +23,6 @@ msgstr ""
 "X-Textdomain-Support: yes\n"
 "X-Loco-Target-Locale: ru_RU\n"
 "X-Poedit-SearchPath-0: .\n"
-
-#: includes/class-the7pt-admin.php:86
-msgid "Settings"
-msgstr ""
 
 #: includes/class-the7pt-admin.php:180
 msgid ""
@@ -4033,8 +4029,8 @@ msgstr ""
 
 #. Description of the plugin/theme
 msgid ""
-"This plugin contains The7 custom post types and corresponding Visual "
-"Composer elements."
+"This plugin contains The7 custom post types and corresponding page builder "
+"elements."
 msgstr ""
 
 #. Author of the plugin/theme
@@ -4236,6 +4232,11 @@ msgstr ""
 #: mods/testimonials/admin/metaboxes/metaboxes-testimonials.php:51
 msgctxt "backend"
 msgid " &mdash; choose Testimonials category(s) to be shown on this page."
+msgstr ""
+
+#: includes/class-the7pt-admin.php:86
+msgctxt "admin"
+msgid "Settings"
 msgstr ""
 
 #: includes/theme-options/modules.php:13
@@ -5628,13 +5629,13 @@ msgctxt "vc inline dummy"
 msgid "Albums Scroller"
 msgstr "Рубрики Альбомов"
 
-#: mods/albums/public/shortcodes/gallery-masonry/gallery-masonry.php:513
+#: mods/albums/public/shortcodes/gallery-masonry/gallery-masonry.php:523
 #, fuzzy
 msgctxt "vc inline dummy"
 msgid "Gallery masonry & grid"
 msgstr "Рубрики Отзывы"
 
-#: mods/albums/public/shortcodes/photos-carousel/photos-carousel.php:571
+#: mods/albums/public/shortcodes/photos-carousel/photos-carousel.php:582
 #, fuzzy
 msgctxt "vc inline dummy"
 msgid "Photos Carousel"

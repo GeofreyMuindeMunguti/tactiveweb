@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: The7mk2 v5.0.0.b5\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/dt-the7-core\n"
-"POT-Creation-Date: 2020-02-07 07:56:06+00:00\n"
+"POT-Creation-Date: 2020-02-28 10:17:39+00:00\n"
 "PO-Revision-Date: 2016-09-23 11:11+0300\n"
 "Last-Translator: \n"
 "Language-Team: Swedish\n"
@@ -18,12 +18,6 @@ msgstr ""
 "X-Poedit-Basepath: ..\n"
 "X-Textdomain-Support: yes\n"
 "X-Poedit-SearchPath-0: .\n"
-
-# @ the7mk2
-#: includes/class-the7pt-admin.php:86
-#, fuzzy
-msgid "Settings"
-msgstr "Inställningar för sidopandel"
 
 #: includes/class-the7pt-admin.php:180
 msgid ""
@@ -4408,8 +4402,8 @@ msgstr "Projektlänk:"
 
 #. Description of the plugin/theme
 msgid ""
-"This plugin contains The7 custom post types and corresponding Visual "
-"Composer elements."
+"This plugin contains The7 custom post types and corresponding page builder "
+"elements."
 msgstr ""
 
 # @ the7mk2
@@ -4671,6 +4665,13 @@ msgstr ""
 msgctxt "backend"
 msgid " &mdash; choose Testimonials category(s) to be shown on this page."
 msgstr "- Välj omdömes-kategori(er) som ska visas på denna sida."
+
+# @ the7mk2
+#: includes/class-the7pt-admin.php:86
+#, fuzzy
+msgctxt "admin"
+msgid "Settings"
+msgstr "Inställningar för sidopandel"
 
 # @ the7mk2
 #: includes/theme-options/modules.php:13
@@ -6281,14 +6282,14 @@ msgctxt "vc inline dummy"
 msgid "Albums Scroller"
 msgstr "Albumscroller"
 
-#: mods/albums/public/shortcodes/gallery-masonry/gallery-masonry.php:513
+#: mods/albums/public/shortcodes/gallery-masonry/gallery-masonry.php:523
 #, fuzzy
 msgctxt "vc inline dummy"
 msgid "Gallery masonry & grid"
 msgstr "Murverk & rutnät"
 
 # @ the7mk2
-#: mods/albums/public/shortcodes/photos-carousel/photos-carousel.php:571
+#: mods/albums/public/shortcodes/photos-carousel/photos-carousel.php:582
 #, fuzzy
 msgctxt "vc inline dummy"
 msgid "Photos Carousel"

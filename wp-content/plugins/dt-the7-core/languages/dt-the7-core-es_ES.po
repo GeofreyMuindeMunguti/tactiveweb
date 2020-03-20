@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: The7 core 5.6.1.2\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/dt-the7-core\n"
-"POT-Creation-Date: 2020-02-07 07:56:06+00:00\n"
+"POT-Creation-Date: 2020-02-28 10:17:39+00:00\n"
 "PO-Revision-Date: 2017-11-09 17:19-0300\n"
 "Last-Translator: \n"
 "Language-Team: Spanish (Spain)\n"
@@ -22,10 +22,6 @@ msgstr ""
 "X-Textdomain-Support: yes\n"
 "X-Loco-Target-Locale: es_ES\n"
 "X-Poedit-SearchPath-0: .\n"
-
-#: includes/class-the7pt-admin.php:86
-msgid "Settings"
-msgstr "Configuración"
 
 #: includes/class-the7pt-admin.php:180
 msgid ""
@@ -4096,9 +4092,10 @@ msgid "The7 Elements"
 msgstr "The7 Elementos"
 
 #. Description of the plugin/theme
+#, fuzzy
 msgid ""
-"This plugin contains The7 custom post types and corresponding Visual "
-"Composer elements."
+"This plugin contains The7 custom post types and corresponding page builder "
+"elements."
 msgstr ""
 "Este plugin contiene plantillas \"The7\" con formatos personalizados y "
 "elementos correspondientes de Visual Composer. "
@@ -4325,6 +4322,12 @@ msgctxt "backend"
 msgid " &mdash; choose Testimonials category(s) to be shown on this page."
 msgstr ""
 "&mdash; Elegir categoría(s) de testimonios para mostrar en esta página."
+
+#: includes/class-the7pt-admin.php:86
+#, fuzzy
+msgctxt "admin"
+msgid "Settings"
+msgstr "Configuración"
 
 #: includes/theme-options/modules.php:13
 msgctxt "theme-options"
@@ -5751,13 +5754,13 @@ msgctxt "vc inline dummy"
 msgid "Albums Scroller"
 msgstr "Álbumes Scroller"
 
-#: mods/albums/public/shortcodes/gallery-masonry/gallery-masonry.php:513
+#: mods/albums/public/shortcodes/gallery-masonry/gallery-masonry.php:523
 #, fuzzy
 msgctxt "vc inline dummy"
 msgid "Gallery masonry & grid"
 msgstr "Equipo Cuadrícula irregular & lineal "
 
-#: mods/albums/public/shortcodes/photos-carousel/photos-carousel.php:571
+#: mods/albums/public/shortcodes/photos-carousel/photos-carousel.php:582
 #, fuzzy
 msgctxt "vc inline dummy"
 msgid "Photos Carousel"

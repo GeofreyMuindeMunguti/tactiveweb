@@ -83,27 +83,27 @@
   }
   .masthead:not(.side-header):not(.side-header-v-stroke):not(.side-header-menu-icon) .header-bar,
   .ph-wrap {
-    padding: 0 50px 0 50px;
+    padding: 0 70px 0 70px;
   }
   .top-header .mega-full-width > .dt-mega-menu-wrap {
-    width: calc(1300px - 50px - 50px);
+    width: calc(1300px - 70px - 70px);
   }
   .boxed .masthead:not(.full-width):not(.side-header):not(.side-header-menu-icon):not(.side-header-v-stroke) .header-bar,
   .boxed .ph-wrap {
     max-width: 100%;
-    width: calc(1300px - 50px - 50px);
+    width: calc(1300px - 70px - 70px);
   }
   .boxed .masthead:not(.width-in-pixel):not(.sticky-on) .top-bar-bg,
   .boxed.masthead:not(.width-in-pixel):not(#phantom) .top-bar-bg,
   .boxed .classic-header:not(.width-in-pixel) .navigation:before {
-    margin: 0 -50px 0 -50px;
+    margin: 0 -70px 0 -70px;
     padding: 0 1000px;
   }
   .ph-wrap,
   #phantom .ph-wrap.boxed,
   .boxed .top-bar.line-content:before,
   .boxed .classic-header.content-width-line .navigation:before {
-    max-width: calc(1300px - 50px - 50px);
+    max-width: calc(1300px - 70px - 70px);
   }
   .side-header > .top-bar,
   .mixed-header:not(.side-header-h-stroke) > .top-bar {
@@ -1239,7 +1239,7 @@
 }
 @media screen and (max-width: 778px) {
   #footer .wf-container-footer {
-    padding-top: 50px;
+    padding-top: 30px;
     padding-bottom: 15px;
   }
   #footer > .wf-wrap,
@@ -1786,7 +1786,7 @@
 }
 @media screen and (max-width: 768px) {
   .checkout-page-title a {
-    font:   bold 20px / 30px "Roboto", Helvetica, Arial, Verdana, sans-serif;
+    font:   bold 20px / 30px "Montserrat", Helvetica, Arial, Verdana, sans-serif;
   }
   .checkout-page-title .checkout-counter {
     width: 40px;

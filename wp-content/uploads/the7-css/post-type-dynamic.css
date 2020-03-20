@@ -29,7 +29,7 @@
   color: rgba(139,141,148,0.5);
 }
 .footer .color-base-transparent {
-  color: rgba(139,141,148,0.5);
+  color: rgba(255,255,255,0.5);
 }
 .outline-element-decoration .outline-decoration {
   -webkit-box-shadow: inset 0px 0px 0px 1px rgba(0,0,0,0);
@@ -84,11 +84,11 @@
 }
 .team-author p {
   color: #333333;
-  font:   bold 14px / 24px "Roboto", Helvetica, Arial, Verdana, sans-serif;
+  font:   bold 14px / 24px "Montserrat", Helvetica, Arial, Verdana, sans-serif;
   text-transform: none;
 }
 .dt-team-shortcode .team-author p {
-  font:    16px / 28px "Roboto", Helvetica, Arial, Verdana, sans-serif;
+  font:    16px / 28px "Montserrat", Helvetica, Arial, Verdana, sans-serif;
   text-transform: none;
   color: #1ebbf0;
 }
@@ -175,12 +175,12 @@
   color: #eeeeee;
 }
 .dt-testimonials-shortcode .testimonial-vcard .text-primary {
-  font: normal  normal 20px / 30px "Roboto", Helvetica, Arial, Verdana, sans-serif;
+  font: normal  normal 20px / 30px "Montserrat", Helvetica, Arial, Verdana, sans-serif;
 }
 .team-author-name,
 .team-author-name a {
   color: #333333;
-  font: normal  normal 20px / 30px "Roboto", Helvetica, Arial, Verdana, sans-serif;
+  font: normal  normal 20px / 30px "Montserrat", Helvetica, Arial, Verdana, sans-serif;
 }
 .content .team-author-name a:hover {
   color: #1ebbf0;
@@ -198,7 +198,7 @@
 }
 .widget .team-author-name,
 .widget .team-author-name a {
-  font:   bold 16px / 26px "Roboto", Helvetica, Arial, Verdana, sans-serif;
+  font:   bold 16px / 26px "Montserrat", Helvetica, Arial, Verdana, sans-serif;
   text-transform: none;
   color: #333333;
 }
@@ -231,44 +231,44 @@
   color: #eeeeee;
 }
 .rsTitle {
-  font:   bold 52px / 62px "Roboto", Helvetica, Arial, Verdana, sans-serif;
+  font:   bold 52px / 62px "Montserrat", Helvetica, Arial, Verdana, sans-serif;
   text-transform: none;
 }
 .rsDesc {
-  font:   bold 34px / 44px "Roboto", Helvetica, Arial, Verdana, sans-serif;
+  font:   bold 34px / 44px "Montserrat", Helvetica, Arial, Verdana, sans-serif;
   text-transform: none;
 }
 @media screen and (max-width: 1200px) {
   .rsTitle {
-    font:   bold 34px / 44px "Roboto", Helvetica, Arial, Verdana, sans-serif;
+    font:   bold 34px / 44px "Montserrat", Helvetica, Arial, Verdana, sans-serif;
   }
   .rsDesc {
-    font:   bold 24px / 34px "Roboto", Helvetica, Arial, Verdana, sans-serif;
+    font:   bold 24px / 34px "Montserrat", Helvetica, Arial, Verdana, sans-serif;
   }
 }
 @media screen and (max-width: 1024px) {
   .rsTitle {
-    font:   bold 24px / 34px "Roboto", Helvetica, Arial, Verdana, sans-serif;
+    font:   bold 24px / 34px "Montserrat", Helvetica, Arial, Verdana, sans-serif;
   }
   .rsDesc {
-    font:   bold 20px / 30px "Roboto", Helvetica, Arial, Verdana, sans-serif;
+    font:   bold 20px / 30px "Montserrat", Helvetica, Arial, Verdana, sans-serif;
   }
 }
 @media screen and (max-width: 800px) {
   .rsTitle {
-    font:   bold 16px / 26px "Roboto", Helvetica, Arial, Verdana, sans-serif;
+    font:   bold 16px / 26px "Montserrat", Helvetica, Arial, Verdana, sans-serif;
   }
   .rsDesc {
-    font:    15px / 27px "Roboto", Helvetica, Arial, Verdana, sans-serif;
+    font:    15px / 27px "Montserrat", Helvetica, Arial, Verdana, sans-serif;
   }
 }
 @media screen and (max-width: 320px) {
   .rsTitle {
-    font:    15px / 27px "Roboto", Helvetica, Arial, Verdana, sans-serif;
+    font:    15px / 27px "Montserrat", Helvetica, Arial, Verdana, sans-serif;
   }
   .rsDesc {
     display: none !important;
-    font:    15px / 27px "Roboto", Helvetica, Arial, Verdana, sans-serif;
+    font:    15px / 27px "Montserrat", Helvetica, Arial, Verdana, sans-serif;
   }
 }
 #main-slideshow .progress-spinner-left,
@@ -307,10 +307,10 @@
 }
 .footer .slider-content .owl-dot:not(.active):not(:hover),
 .footer .slider-content .owl-dot:not(.active):hover {
-  -webkit-box-shadow: inset 0 0 0 2px rgba(139,141,148,0.35);
-  box-shadow: inset 0 0 0 2px rgba(139,141,148,0.35);
+  -webkit-box-shadow: inset 0 0 0 2px rgba(255,255,255,0.35);
+  box-shadow: inset 0 0 0 2px rgba(255,255,255,0.35);
 }
 .footer .slider-content .owl-dot.active {
-  -webkit-box-shadow: inset 0 0 0 20px rgba(139,141,148,0.35);
-  box-shadow: inset 0 0 0 20px rgba(139,141,148,0.35);
+  -webkit-box-shadow: inset 0 0 0 20px rgba(255,255,255,0.35);
+  box-shadow: inset 0 0 0 20px rgba(255,255,255,0.35);
 }
