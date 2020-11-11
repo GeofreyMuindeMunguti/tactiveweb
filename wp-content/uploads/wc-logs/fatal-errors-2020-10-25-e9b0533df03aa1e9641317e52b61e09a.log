@@ -1,0 +1,8 @@
+2020-10-25T10:00:55+00:00 CRITICAL Uncaught Error: Call to a member function isGroup() on null in /var/www/new/tactiveweb/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ViewIframe.php:39
+Stack trace:
+#0 /var/www/new/tactiveweb/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ControllerPreRenderSlider.php(32): Nextend\SmartSlider3\Application\Frontend\Slider\ViewIframe->display()
+#1 [internal function]: Nextend\SmartSlider3\Application\Frontend\Slider\ControllerPreRenderSlider->actionIframe()
+#2 /var/www/new/tactiveweb/wp-content/plugins/smart-slider-3/Nextend/Framework/Controller/AbstractController.php(93): call_user_func_array(Array, Array)
+#3 /var/www/new/tactiveweb/wp-content/plugins/smart-slider-3/Nextend/Framework/Application/AbstractApplicationType.php(88): Nextend\Framework\Controller\AbstractController->doAction('iframe', Array)
+#4 /var/www/new/tactiveweb/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Platform/WordPress/WordPressFrontend.php(30): Nextend\Fram in /var/www/new/tactiveweb/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ViewIframe.php on line 39
+
