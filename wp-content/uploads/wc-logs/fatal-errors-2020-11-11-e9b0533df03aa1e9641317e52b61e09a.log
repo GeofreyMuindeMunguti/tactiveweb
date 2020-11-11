@@ -1,0 +1,2 @@
+2020-11-11T14:58:17+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 28983296 bytes) in /var/www/new/tactiveweb/wp-includes/functions.php on line 3968
+
